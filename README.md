@@ -1,4 +1,4 @@
-# Portfoio de Arthur
+# Portfolio de Arthur
 portfolio d'Arthur , étudiant en BTS SIO
 Objectif:
 1.Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
